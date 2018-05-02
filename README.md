@@ -1,0 +1,2 @@
+# Dynamic-Branch-Prediction-GA--NTB
+The branch predictor algorithms can be classified into two main classes; static and dynamic. Static predictors are simple and rely on software where dynamic predictors are complex and rely on hardware . Dynamic predictors show more accuracy than static predictors because they learn the repetitive pattern of change in branch direction although they need time for worming up . 
